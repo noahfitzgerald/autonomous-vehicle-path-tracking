@@ -93,7 +93,7 @@ The thesis workflow used external robotics/data infrastructure developed by Will
 * ros2_pydata: Used or referenced for converting ROS2 message data into Python-native / NumPy-friendly formats.
   https://github.com/william-mx/ros2_pydata
 
-* mxck_interfaces: Used as part of the MXCK platform’s ROS2 custom service/message infrastructure.
+* mxck_interfaces: Used as part of the MXcarkit platform’s ROS2 custom service/message infrastructure.
   https://github.com/william-mx/mxck_interfaces
 
 * mxck_ws: Supporting ROS workspace for the MXcarkit platform.
