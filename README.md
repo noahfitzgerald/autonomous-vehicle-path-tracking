@@ -131,7 +131,7 @@ This repository is a selected-code thesis archive and portfolio reference. The s
 ## Author
 
 Noah Fitzgerald
-Mechanical Engineering Thesis Project
+Mechanical Engineering Thesis Project @
 California Polytechnic State University, San Luis Obispo
 
 ## License
